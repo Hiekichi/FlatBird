@@ -12,7 +12,9 @@
 
 
 ## 遊び方など
-- アレです
+- キーボードのEnterキー／ゲームパッドのBボタンで開始
+- キーボードのスペースキー／ゲームパッドのAボタンでジャンプ
+- 土管をくぐり抜けると得点
 
 ## 動作確認はこちらから
 - [Pyxel Web Launcher](https://kitao.github.io/pyxel/wasm/launcher/?run=Hiekichi.FlatBird.FlatBirdGame240)
