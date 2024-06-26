@@ -15,7 +15,7 @@
 - アレです
 
 ## 動作確認はこちらから
-- [Pyxel Web Launcher](https://kitao.github.io/pyxel/wasm/launcher/?run=Hiekichi.FlatBird.FlatBird240)
+- [Pyxel Web Launcher](https://kitao.github.io/pyxel/wasm/launcher/?run=Hiekichi.FlatBird.FlatBirdGame240)
 - [ハンドヘルドゲーム機用(pyxappファイル)](https://github.com/Hiekichi/FlatBird/blob/main/FlatBird.pyxapp)
 
 
